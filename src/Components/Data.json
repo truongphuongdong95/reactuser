@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Tony Stark",
+        "tel":"90293001903",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"Steve Roger",
+        "tel":"02105456325",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"Thor",
+        "tel":"05621546321",
+        "permission":3
+    },
+    {
+        "id":4,
+        "name":"Bruce Banner",
+        "tel":"056486213654",
+        "permission":2
+    },
+    {
+        "id":5,
+        "name":"Peter Parker",
+        "tel":"054612364862",
+        "permission":3
+    }
+]
